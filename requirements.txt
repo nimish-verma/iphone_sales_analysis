@@ -2,3 +2,15 @@ ipykernel
 numpy
 pandas
 plotly
+
+
+# pip install -r requirements.txt
+
+
+# echo "# iphone_sales_analysis" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/nimish-verma/iphone_sales_analysis.git
+# git push -u origin main
