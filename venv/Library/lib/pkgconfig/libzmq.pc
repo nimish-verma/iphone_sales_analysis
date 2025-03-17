@@ -1,0 +1,12 @@
+prefix=e:/_Projects/ml/sales_analysis/venv/Library
+exec_prefix=e:/_Projects/ml/sales_analysis/venv/Library
+libdir=e:/_Projects/ml/sales_analysis/venv/Library/lib
+includedir=e:/_Projects/ml/sales_analysis/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
